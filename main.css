@@ -590,6 +590,19 @@ h3 {
   }
 
   .main-nav {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: thin;
+    padding-bottom: 4px;
+  }
+
+  .main-nav a {
+    flex-shrink: 0;
+  }
+
+  .main-nav {
     gap: 21px;
   }
 
@@ -686,4 +699,58 @@ h3 {
   *::after {
     transition-duration: .01ms !important;
   }
+}
+
+
+/* UDZIAŁ W KONFERENCJI */
+
+.participation-section {
+  background: var(--surface-muted);
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.participation-section .section-heading {
+  margin-bottom: 25px;
+}
+
+.participation-content {
+  max-width: 850px;
+}
+
+.participation-content p {
+  font-size: 1.02rem;
+  line-height: 1.8;
+  color: var(--ink);
+  margin-bottom: 18px;
+}
+
+.participation-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px 30px;
+  margin-top: 30px;
+}
+
+.participation-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-size: .9rem;
+  font-weight: 650;
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 4px;
+}
+
+.participation-link:hover {
+  color: var(--accent-hover);
+  border-color: var(--accent-hover);
+}
+
+.participation-link span {
+  font-size: 1.2rem;
+  line-height: 1;
 }
