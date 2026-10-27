@@ -9,7 +9,7 @@ const schedule = [
   {day:'2026-11-05',time:'16:00',id:'raczkowski',title:'Tabulatury Pelplińskie – dezyderaty i postulaty naukowo-badawcze oraz konserwatorskie',presenter:'Juliusz Raczkowski'},
   {day:'2026-11-05',time:'17:30',event:'Zwiedzanie Katedry z przewodnikiem'},
   /*{day:'2026-11-05',time:'19:00',event:'Obiad konferencyjny'},*/
-  {day:'2026-11-06',time:'10:00',id:'poniatowski',title:'',presenter:'Kamil Poniatowski'},
+  {day:'2026-11-06',time:'10:00',id:'poniatowski',title:'Rękopisy Ms.307, Ms.308 i Ms.308a w świetle nowych prac katalogowych',presenter:'Kamil Poniatowski'},
   {day:'2026-11-06',time:'10:30',id:'sapp-iwaszko',title:'Nowe metody transkrypcji repertuaru Tabulatur Pelplińskich',presenter:'Craig Sapp, Jacek Iwaszko'},
   {day:'2026-11-06',time:'11:00',event:'Przerwa'},
   {day:'2026-11-06',time:'11:30',id:'tofetti',title:'Instrumental Canzonas by Italian Composers in the Pelplin Tablature: A Preliminary Critical Survey',presenter:'Marina Tofetti'},
