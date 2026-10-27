@@ -23,7 +23,7 @@ const schedule = [
   {day:'2026-11-06',time:'18:00',event:'Koncert', title:'A due voci: Utwory dwugłosowe z Tabulatur Pelplińskich', presenter:'Justyna Adamska – sopran, Tomasz Gozdek - bas, Michał Sawicki - pozytyw', place:'Muzeum Biblii Gutenberga, ul. Biskupa Dominika 11, 83-130 Pelplin'},
   {day:'2026-11-07',time:'10:00',id:'smith',title:'',presenter:'David Smith'},
   {day:'2026-11-07',time:'10:30',id:'wala',title:'Antologia Selectae Cantiones (1614) jako źródło repertuaru dla kopisty Tabulatury Pelplińskiej',presenter:'Antoni Wala'},
-  {day:'2026-11-07',time:'11:00',event:'Panel dyskusyjny',presenter:'Irena Bieńkowska, Aleksandra Patalas, Juliusz Raczkowski, Marcin Szelest'},
+  {day:'2026-11-07',time:'11:00',event:'Panel dyskusyjny',presenter:'Marcin Konik, Aleksandra Patalas, Juliusz Raczkowski, Marcin Szelest'},
   {day:'2026-11-07',time:'12:30',event:'Zakończenie konferencji'}
 ];
 
