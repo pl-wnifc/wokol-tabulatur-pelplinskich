@@ -14,7 +14,7 @@ const schedule = [
   {day:'2026-11-06',time:'11:00',event:'Przerwa'},
   {day:'2026-11-06',time:'11:30',id:'tofetti',title:'Instrumental Canzonas by Italian Composers in the Pelplin Tablature: A Preliminary Critical Survey',presenter:'Marina Tofetti'},
   {day:'2026-11-06',time:'12:00',id:'twardowski',title:'Recepcja pierwowzorów madrygałowych kontrafaktur Orfea Vecchiego zawartych w Tabulaturze Pelplińskiej',presenter:'Stanisław Twardowski'},
-  {day:'2026-11-06',time:'12:30',id:'patalas',title:'Utwory Asprilia Pacellego w tabulaturze pelplińskiej',presenter:'Aleksandra Patalas'},
+  {day:'2026-11-06',time:'12:30',id:'patalas',title:'Utwory Asprilia Pacellego w Tabulaturze Pelplińskiej',presenter:'Aleksandra Patalas'},
   {day:'2026-11-06',time:'13:00',event:'Przerwa obiadowa'},
   {day:'2026-11-06',time:'14:30',id:'chankowska',title:'Quarta Tabulatura Collegii Rigensis na tle tabulatur organowych regionu bałtyckiego',presenter:'Zofia Chankowska'},
   {day:'2026-11-06',time:'15:00',id:'szczerbinin',title:'Tabulatura Pelplińska w świetle repertuaru tabulatury braniewsko-oliwskiej oraz tabulatury S-Uu vmhs 89',presenter:'Artur Szczerbinin'},
